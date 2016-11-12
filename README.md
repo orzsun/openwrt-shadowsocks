@@ -55,7 +55,7 @@ Shadowsocks-libev for OpenWrt
    ```
 编译出错
 ---
-#缺少libssl.so.1.0.0的解决办法
+- 缺少libssl.so.1.0.0的解决办法
 wget http://rpm.pbone.net/index.php3?stat=26&dist=102&size=766414&name=openssl1-1.0.0-4.fc24.x86_64.rpm
 yum install openssl1-1.0.0-4.fc24.x86_64.rpm
 
